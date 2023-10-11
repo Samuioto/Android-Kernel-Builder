@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/Akitlove/NGK_android_kernel_xiaomi_sdm845",
       "branch": "88-zstd",
       "device": "polaris",
       "defconfig": "polaris_user_defconfig"
