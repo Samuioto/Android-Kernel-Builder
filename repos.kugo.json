@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm8",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
-      "device": "polaris",
-      "defconfig": "polaris_user_defconfig"
+      "name": "android_kernel_sony_msm8956",
+      "repo": "https://github.com/Chippa-a/android_kernel_sony_msm8956",
+      "branch": "lineage-16.0",
+      "device": "kugo",
+      "defconfig": "kugo_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
