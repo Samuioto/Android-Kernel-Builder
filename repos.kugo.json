@@ -5,7 +5,7 @@
       "repo": "https://github.com/Chippa-a/android_kernel_sony_msm8956",
       "branch": "lineage-16.0",
       "device": "kugo",
-      "defconfig": "kugo_user_defconfig"
+      "defconfig": "loire_kugo_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
