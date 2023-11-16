@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "android_kernel_sony_msm8956",
       "repo": "https://github.com/Chippa-a/android_kernel_sony_msm8956",
-      "branch": "lineage-16.0",
+      "branch": "lineage-19.1",
       "device": "kugo",
       "defconfig": "loire_kugo_defconfig"
     },
